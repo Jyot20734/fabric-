@@ -147,7 +147,6 @@ background-color: rgb(130, 127, 129);
   
 }
 
-
 .about-text h5 {
   color: pink;
   margin-bottom: 10px;
@@ -252,7 +251,6 @@ background-color: rgb(130, 127, 129);
 }
 
 .footer-col h4::after {
-  content: '';
   width: 30px;
   height: 2px;
   background: pink;
@@ -283,7 +281,6 @@ background-color: rgb(130, 127, 129);
   line-height: 30px;
   border-radius: 50%;
   margin-right: 8px;
-  cursor: pointer;
 }
 
 .gallery {
@@ -305,5 +302,5 @@ background-color: rgb(130, 127, 129);
   padding-top: 15px;
   text-align: center;
   font-size: 14px;
-  color: #aaa;
+  color: rgb(132, 130, 130);
 }
